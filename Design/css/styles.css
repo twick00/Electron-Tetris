@@ -1,0 +1,23 @@
+#canvas-container {
+    margin-bottom: 10%;
+    position: relative;
+    transform: translateY(10%);
+    text-align: center;
+  }
+  
+  body{
+    background-image: url('../img/1.jpg');
+    background-size: 100%
+  }
+  
+  #canvas{
+    background-color: white;
+    height: 800px;
+  }
+  #game-over {
+      display: none;
+  }
+  #score {
+      display: none;
+      text-align: center;
+  }
